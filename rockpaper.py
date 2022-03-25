@@ -1,6 +1,6 @@
 import random
 #if i wanted to ask a player if they wanted to play another round, i would play a wild loop below
-#thoughi i would make sure afterward to have a break in the end to stop the loop and indent the lines below
+# i would make sure afterward to have a break in the end to stop the loop and indent the lines below
 while True:
     choices = ["rock", "paper", "scissors"]
 # make sure for my inputs to include .lower() so i am able type in all caps or uppercase
